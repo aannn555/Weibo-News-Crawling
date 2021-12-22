@@ -1,4 +1,4 @@
-# Weibow-News-Crawling
+# Weibo-News-Crawling
 
 Crawl yesterday news in weibo.
 
